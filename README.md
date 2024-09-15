@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me https://www.linkedin.com/in/yvonne-mwikali/
 - 😄 Pronouns: She
-- ⚡ Fun fact: Collecting colorful facts, shower thinker
+- ⚡ Fun fact: Collecting colorful socks, shower thinker
 
 <!---
 yvvii/yvvii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
