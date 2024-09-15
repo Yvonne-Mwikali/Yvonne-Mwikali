@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developement
 - 🌱 I’m currently learning react native
 - 💞️ I’m looking to collaborate on web projects
-- 📫 How to reach me (LinkedIn)[https://www.linkedin.com/in/yvonne-mwikali/]
+- 📫 How to reach me https://www.linkedin.com/in/yvonne-mwikali/
 - 😄 Pronouns: She
 - ⚡ Fun fact: Collecting colorful facts, shower thinker
 
