@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yvvii
+- 👋 Hi, I’m Yvonne
 - 👀 I’m interested in web developement
 - 🌱 I’m currently learning react native
 - 💞️ I’m looking to collaborate on web projects
